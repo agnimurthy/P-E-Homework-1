@@ -1,0 +1,28 @@
+What does the rect function do?
+
+Creates / draws a rectangle.
+
+
+
+
+What does the rectMode function do?
+
+Tells Processing how to interpret the instructions with set modes, like "CORNER", "CORNERS", "CENTER" 
+
+
+
+
+What is a pixel?
+
+Pixels are a coordinate on a screen that is usually assigned an RGB color value.
+
+
+
+
+What is HSB?
+
+Hue
+Saturation
+Brightness
+
+An alternate mode to set color on Processing
