@@ -18,12 +18,4 @@ function draw() {
   
   x = x + move;
   	
-  	 if (x > 575 || x < 25)  {
-     	move = -move;
-  	}
 }
-
-function mousePressed() {
-      x = mouseX;
-      y = mouseY;
-  }
