@@ -1,2 +1,2 @@
-# Programming and Electronics Homework 1
-Rudy The Red Dot + Processing Exercises
+# Programming and Electronics Homework
+Week 1 - Rudy The Red Dot + Processing Exercises
