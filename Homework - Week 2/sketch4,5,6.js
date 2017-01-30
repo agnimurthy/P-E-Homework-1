@@ -18,7 +18,11 @@ function draw() {
   
   x = x + move;
   	
-  	 if (x > 575 || x < 25)  {
+  	 if (x > 575)  {
+     	move = -move;
+  	}
+  
+  if (x < 25)  {
      	move = -move;
   	}
 }
