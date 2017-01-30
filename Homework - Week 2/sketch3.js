@@ -17,5 +17,8 @@ function draw() {
   ellipse (x, y, 50, 50);
   
   x = x + move;
-  	
+	
+	if (x >= 625) {
+  	x = 100
+	}
 }
