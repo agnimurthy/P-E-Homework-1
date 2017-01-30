@@ -1,6 +1,5 @@
 function setup() { 
   createCanvas(600, 600);
-  
 } 
 
 function draw() { 
@@ -15,12 +14,6 @@ function draw() {
   
   var smileY = mouseY + 20
   
-  smileline1X = mouseX - 30
-  smileline1Y = mouseY + 20
-  
-  
-  
-  
   fill(255);
   stroke(0);
   ellipse(mouseX,mouseY,120,120)
@@ -31,10 +24,9 @@ function draw() {
   noFill()
   stroke(0);
   
-	var SmileValue1 = 40 - (mouseX * 0.1)
+  var SmileValue1 = 40 - (mouseX * 0.1)
   
   var SmileValue2 =  0.15 * (mouseX - 350)
-  
   
   if(mouseX<250) {
     arc(mouseX, smileY, 60, SmileValue1, 0, PI, OPEN);
