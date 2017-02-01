@@ -16,7 +16,7 @@ function draw() {
   fill (255);
   ellipse (x, y, 50, 50);
   
-  x =+= move;
+  x += move;
   	
   	 if (x > 575)  {
      	move = -move;
