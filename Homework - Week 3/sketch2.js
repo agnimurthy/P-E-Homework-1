@@ -9,6 +9,4 @@ function draw() {
   for(var x = 10; x <= 400; x += 10){
     ellipse(200,200,x,x)
   }
-  
-  
 }
