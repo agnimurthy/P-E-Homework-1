@@ -8,7 +8,7 @@ function draw() {
 
   for(var posX = 0; posX <= 400; posX += 8){
   
-  line(posX,400,posX,random(0,mouseY));
+  line(posX,400,posX,random(mouseY,400));
   }
   
 }
