@@ -1,3 +1,4 @@
+var sizes = [20, 30, 30, 20, 100, 85, 60, 50];
 var allCircles = []
 
 function setup() {
@@ -5,12 +6,12 @@ function setup() {
 background(255);
   noStroke();
   colorMode(HSB);
-  for (var i = 0; i < 10; i += 1) {
+  for (var i = 0; i < 9; i += 1) {
 		var circle = {
-			x: 50+i*150,
+			x: 50+i*200,
 			y: height/2,
 			speed: 1,
-			r: random(20, 60),
+			r: sizes[i],
 			h: random(0, 360)
 		};
     append(allCircles,circle);
@@ -29,7 +30,7 @@ function paint(circle) {
 	colorMode(HSB);
 	fill(circle.h, 100, 100);
 	noStroke();
-	ellipse(circle.x, circle.y, circle.r*2, circle.r*2);
+	ellipse(circle.x, circle.y, circle.r, circle.r);
 }
 
 function move(circle) {
