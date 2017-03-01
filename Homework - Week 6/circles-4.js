@@ -1,14 +1,14 @@
-var sizes = [20, 30, 30, 20, 100, 85, 60, 50];
+var sizes = [20, 30, 30, 20, 120, 85, 60, 50];
 var allCircles = []
 
 function setup() {
-  createCanvas(1500, 500);
+  createCanvas(1200, 500);
 background(255);
   noStroke();
   colorMode(HSB);
   for (var i = 0; i < 9; i += 1) {
 		var circle = {
-			x: 50+i*200,
+			x: 50+i*150,
 			y: height/2,
 			speed: 1,
 			r: sizes[i],
