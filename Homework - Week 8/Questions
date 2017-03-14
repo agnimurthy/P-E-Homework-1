@@ -1,0 +1,8 @@
+Why can you only use certain pins for analogWrite()?
+
+Because only certain pins support PWM (Pulse Width Modulation), which is a way of simulating an analog signal through digital equipment.
+
+
+What is the range the map() function maps the value to? Why this range?
+
+It maps it from 0 to 255, because that is the range that Arduino's analogWrite() function has.
