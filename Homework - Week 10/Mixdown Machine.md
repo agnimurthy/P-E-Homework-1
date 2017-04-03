@@ -32,7 +32,7 @@ Software
 
 ## Block Diagram
 
-ijiji
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Challenges
 
