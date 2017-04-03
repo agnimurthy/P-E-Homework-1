@@ -32,7 +32,7 @@ Software
 
 ## Block Diagram
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Mixdown Machine Block Diagram](https://raw.githubusercontent.com/agnimurthy/Programming-and-Electronics-Spring-2017-Homework/master/Homework%20-%20Week%2010/img/Input%20Processing%20Output%20-%20Programming%20%26%20Electronics.jpg)
 
 ## Challenges
 
