@@ -1,4 +1,4 @@
-# The Mixdown Machine
+# ArDJuino
 
 I propose to make a hardware arduino controller that allows a person to manipulate parameters  the separated audio tracks behind the song "Feel Good Inc." by the Gorillaz.
 
@@ -23,6 +23,7 @@ Hardware / Input:
 - Breadboard (maybe larger breadboard to fit more parts?)
 - Potentiometers - to control parameters like volume or high pass / low pass effect
 - LEDs - Visual feedback on the board
+- Knob covers
 - Buttons to trigger audio channels / playback
 
 Software
