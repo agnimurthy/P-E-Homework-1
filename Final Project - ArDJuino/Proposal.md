@@ -33,7 +33,7 @@ Software
 
 ## Block Diagram
 
-![Mixdown Machine Block Diagram](https://raw.githubusercontent.com/agnimurthy/Programming-and-Electronics-Spring-2017-Homework/master/Final%20Project%20-%20Mixdown%20Machine/Input%20Processing%20Output%20-%20Programming%20%26%20Electronics.jpg)
+![Mixdown Machine Block Diagram](https://raw.githubusercontent.com/agnimurthy/Programming-and-Electronics-Spring-2017-Homework/master/Final%20Project%20-%20ArDJuino/Input%20Processing%20Output%20-%20Programming%20%26%20Electronics.jpg)
 
 ## Challenges
 
